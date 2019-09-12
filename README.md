@@ -1,5 +1,5 @@
 ## Aula do dia 04/09/2019
-[d3 introdução](d3_introdução/notebook aula 04.09.19.html)<br>
+[d3 introdução](d3_introdução/d3_introdução.html)<br>
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>

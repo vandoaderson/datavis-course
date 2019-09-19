@@ -1,4 +1,4 @@
-## (Tarefa em andamento)Aula do dia 11/09/2019
+## Aula do dia 11/09/2019
 [d3 Escalas e Eixos](d3_escala/d3_escalas.html)<br>
 ## Aula do dia 04/09/2019
 [d3 introdução](d3_introdução/d3_introdução.html)<br>

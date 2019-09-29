@@ -3,8 +3,7 @@
 ## Aula do dia 23/09/2019
 [d3 Crossfilter e DC](D3_com_Crossfilter_e_DC/D3_com_Crossfilter_e_DC.html)<br>
 ## Aula do dia 16/09/2019
-[d3 Updates e Transições](D3_(Parte 3)_Updates_e_Transições/D3_(Parte_3)_Updates_e_Transições.html)<br>
-
+[d3 Updates e Transições](D3_(Parte_3)_Updates_e_Transições/D3_(Parte_3)_Updates_e_Transições.html)<br>
 ## Aula do dia 11/09/2019
 [d3 Escalas e Eixos](d3_escala/d3_escalas.html)<br>
 ## Aula do dia 04/09/2019
